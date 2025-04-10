@@ -49,13 +49,13 @@ const Navbar = () => {
                             )
 
                         }
-                        {
+                        {/* {
                             token && (
                                 <li className="nav-item">
                                     <Link className={isActive('/estadistica')} to="/estadistica">Estadística</Link>
                                 </li>
                             )
-                        }
+                        } */}
                         {
                             token && (
                                 <li className="nav-item">
